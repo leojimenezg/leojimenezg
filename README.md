@@ -1,1 +1,3 @@
-- Hi 👋. I’m Leonardo Jiménez (@LeoJimenezG)
+<div align="center">
+  <h1>Hello 👋. I'm @LeoJimenezG</h1>
+</div>
