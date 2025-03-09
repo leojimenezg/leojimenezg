@@ -1,45 +1,90 @@
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I am Leonardo Jiménez González (@LeoJimenezG) 
+
 <div align="center">
-  <h1>👋 Hello! I'm @LeoJimenezG</h1>
-  <p>
-    <img src="https://visitcount.itsvg.in/api?id=LeoJimenezG&label=Profile%20Views&color=1&icon=0&pretty=true" alt="Profile Views"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/github/followers/LeoJimenezG?style=for-the-badge&logo=github" alt="GitHub Followers"/>
-    <img src="https://img.shields.io/github/stars/LeoJimenezG?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"/>
-  </p>
-  <br/>
-
-  <h2>📊 GitHub Analytics</h2>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats"/>
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
-  </p>
-  <br/>
-
-  <h2>🛠️ Top Technologies</h2>
-  <p>
-    <img src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=4584b6" alt="Python"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-044F88?style=for-the-badge&logo=c%2B%2B&labelColor=black&color=044F88" alt="C++"/>
-    <img src="https://img.shields.io/badge/Spring%20Boot-8BC34A?style=for-the-badge&logo=spring&logoColor=white&labelColor=black&color=8BC34A" alt="Spring Boot"/>
-    <img src="https://img.shields.io/badge/R-4AA4DE?style=for-the-badge&logo=r&logoColor=white&labelColor=black&color=4AA4DE" alt="R"/>
-    <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge" alt="Java"/>
-  </p>
-  <br/>
-  
-  <!--
-  <h2>🚀 Let's Connect!</h2>
-  <p>
-    <a href="https://github.com/LeoJimenezG" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="mailto:your-email@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://linkedin.com/in/LeoJimenezG" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
-  -->
+  <img height="30em" src="https://visitor-badge.laobi.icu/badge?page_id=LeoJimenezG.LeoJimenezG">
+  <img height="30em" src="https://img.shields.io/github/followers/LeoJimenezG?style=flat&color="green">
+  <img height="30em" src="https://img.shields.io/github/stars/LeoJimenezG?style=flat&color=yellow">
 </div>
+
+
+## 👨‍💻 About Me
+
+I am a software engineering student driven by a unique passion for programming and developing challenging and intriguing projects. I thrive on daily learning, applying newfound knowledge across diverse technologies to solve identified problems with both efficiency and creativity. Logic and reasoning are my foundation and motivation, as I believe they are the essential tools for crafting innovative and robust solutions.
+
+My portfolio includes numerous projects, both personal and collaborative. My individual work has deliberately pushed my boundaries, presenting challenges that were simultaneously difficult, engaging, and enjoyable. Each project has been a learning journey, offering valuable lessons throughout every development phase. When collaborating, I've partnered with talented individuals who bring unique perspectives and complementary skills. These partnerships have led to award-winning projects and earned significant recognition in academic and institutional spheres.
+
+The continuous process of project development and knowledge acquisition fuels my enthusiasm for remaining active in the technology community. I aspire to make meaningful contributions and leave my own distinctive mark on this expansive and remarkable field.
+
+
+- I'm currently in my 6th semester of software engineering (out of 9).
+- During my free time, I enjoy exploring knowledge domains outside my expertise.
+- My current development focus centers around Python-based personal projects (for now).
+- I find calm through hobbies completely disconnected from technology.
+
+## 🛠️ Tools & Technologies
+<!--  <img height="100em" src="" hspace="15"> -->
+
+### Programming Languages
+<p align="center">
+  <img height="100em" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" hspace="10">
+  <img height="100em" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" hspace="10">
+  <img height="110em" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" hspace="10">
+  <!--<img height="100em" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" hspace="10">-->
+  <!--<img height="90em" src="https://www.vectorlogo.zone/logos/lua/lua-official.svg" hspace="50">-->
+  <!--<img height="90em" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" hspace="50">-->
+  <img height="80em" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" hspace="10">
+  <img height="70em" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" hspace="10">
+</p>
+
+<br />
+
+### Frameworks & Libraries
+<p align="center">
+  <img height="100em" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg" hspace="15">
+  <img height="100em" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" hspace="15">
+  <img height="100em" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" hspace="15">
+  <img height="100em" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" hspace="15">
+  <img height="100em" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" hspace="15">
+  <img height="100em" src="https://miro.medium.com/v2/resize:fit:1360/format:webp/1*AIlWq29GeP1eny3wA7aMgA.png" hspace="15">
+  <img height="80em" src="https://www.svgrepo.com/show/354321/selenium.svg" hspace="15">
+</p>
+
+<br />
+
+### Data Bases
+<p align="center">
+  <img height="100em" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" hspace="15">
+  <img height="100em" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" hspace="15">
+  <img height="100em" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" hspace="15">
+  <img height="100em" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" hspace="15">
+</p>
+
+<br />
+
+### DevOps & Tools
+<p align="center">
+  <img height="100em" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" hspace="15">
+  <img height="100em" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" hspace="15">
+  <img height="100em" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" hspace="15">
+  <img height="100em" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" hspace="15">
+  <img height="100em" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" hspace="15">
+  <img height="100em" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" hspace="15">
+  <img height="100em" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg" hspace="15">
+  <img height="100em" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg" hspace="15">
+</p>
+
+<br />
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/LeoJimenezG">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact"/>
+    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoJimenezG&theme=chartreuse-dark&hide_border=false">
+  </a>
+</p>
+
+---
+
+From: *[LeoJimenezG](https://github.com/LeoJimenezG)*
