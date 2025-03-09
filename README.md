@@ -79,9 +79,9 @@ The continuous process of project development and knowledge acquisition fuels my
 
 <p align="center">
   <a href="https://github.com/LeoJimenezG">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact"/>
-    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoJimenezG&theme=chartreuse-dark&hide_border=false">
+    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoJimenezG&theme=chartreuse-dark&hide_border=false"><br/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true"/><br/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact"/><br/>
   </a>
 </p>
 
