@@ -32,7 +32,7 @@ The continuous process of project development and knowledge acquisition fuels my
   <!--<img height="100em" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" hspace="10">-->
   <!--<img height="90em" src="https://www.vectorlogo.zone/logos/lua/lua-official.svg" hspace="50">-->
   <!--<img height="90em" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" hspace="50">-->
-  <img height="80em" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" hspace="10">
+  <img height="80em" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" hspace="10">
   <img height="70em" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" hspace="10">
 </p>
 
@@ -46,7 +46,7 @@ The continuous process of project development and knowledge acquisition fuels my
   <img height="100em" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" hspace="15">
   <img height="100em" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" hspace="15">
   <img height="100em" src="https://miro.medium.com/v2/resize:fit:1360/format:webp/1*AIlWq29GeP1eny3wA7aMgA.png" hspace="15">
-  <img height="80em" src="https://www.svgrepo.com/show/354321/selenium.svg" hspace="15">
+  <img height="70em" src="https://www.svgrepo.com/show/354321/selenium.svg" hspace="15">
 </p>
 
 <br />
