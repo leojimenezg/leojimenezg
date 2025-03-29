@@ -46,7 +46,7 @@ The continuous process of project development and knowledge acquisition fuels my
   <img height="100em" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" hspace="15">
   <img height="100em" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" hspace="15">
   <img height="100em" src="https://miro.medium.com/v2/resize:fit:1358/1*wEAtpMCNxjcW_9VZyGafdg.png" hspace="15">
-  <img height="70em" src="https://www.svgrepo.com/show/354321/selenium.svg" hspace="15">
+  <img height="90em" src="https://www.svgrepo.com/show/354321/selenium.svg" hspace="15">
 </p>
 
 <br />
