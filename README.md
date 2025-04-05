@@ -7,7 +7,7 @@
 </div>
 
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
 I am a software engineering student driven by a unique passion for programming and developing challenging and intriguing projects. I thrive on daily learning, applying newfound knowledge across diverse technologies to solve identified problems with both efficiency and creativity. Logic and reasoning are my foundation and motivation, as I believe they are the essential tools for crafting innovative and robust solutions.
 
