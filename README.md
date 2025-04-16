@@ -29,9 +29,9 @@ The continuous process of project development and knowledge acquisition fuels my
   <img height="100em" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python" hspace="10">
   <img height="100em" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" hspace="10">
   <img height="110em" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" hspace="10">
-  <!--<img height="100em" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" hspace="10">-->
-  <!--<img height="90em" src="https://www.vectorlogo.zone/logos/lua/lua-official.svg" hspace="50">-->
-  <!--<img height="90em" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" hspace="50">-->
+  <!--<img height="100em" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" hspace="10">-->
+  <img height="90em" src="https://www.vectorlogo.zone/logos/lua/lua-official.svg" alt="lua" hspace="10">
+  <!--<img height="90em" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" hspace="50">-->
   <img height="80em" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" hspace="10">
   <img height="70em" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="r" hspace="10">
 </p>
