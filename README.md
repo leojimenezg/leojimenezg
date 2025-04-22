@@ -30,7 +30,6 @@ The continuous process of project development and knowledge acquisition fuels my
   <img height="110em" src="./images/lua-svgrepo-com.svg" alt="lua" hspace="20" vspace="20">
   <img height="110em" src="./images/cpp-svgrepo-com.svg" alt="c++" hspace="20" vspace="20">
   <img height="90em" src="./images/r-project-icon.svg" alt="r" hspace="20" vspace="20">
-  <img height="100em" src="./images/javascript-svgrepo-com.svg" alt="javascript" hspace="20" vspace="20">
 </p>
 
 <br />
