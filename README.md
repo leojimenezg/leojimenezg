@@ -80,7 +80,7 @@ The continuous process of project development and knowledge acquisition fuels my
     <br/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" alt="stats"/>
     <br/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" alt="languages"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJimenezG&theme=chartreuse-dark&show_icons=tfalse&hide_border=false&layout=compact" alt="languages"/>
     <br/>
   </a>
 </p>
