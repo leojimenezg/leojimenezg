@@ -73,7 +73,6 @@ The continuous process of project development and knowledge acquisition fuels my
 
 ## 📊 GitHub Analytics
 
-*Not sure why, but the streak counter reset and claims the streak is over. It’s not, I still keep going.*
 <p align="center">
   <a href="https://github.com/LeoJimenezG">
     <!--<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoJimenezG&theme=chartreuse-dark&hide_border=true" alt="streak">
