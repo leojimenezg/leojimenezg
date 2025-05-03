@@ -74,13 +74,10 @@ The continuous process of project development and knowledge acquisition fuels my
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/LeoJimenezG">
-    <!--<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoJimenezG&theme=chartreuse-dark&hide_border=true" alt="streak">
-    <br/>-->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" hspace="10" alt="stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJimenezG&theme=chartreuse-dark&show_icons=tfalse&hide_border=true&layout=compact" hspace="10" alt="languages"/>
-    <br/>
-  </a>
+  <!--<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoJimenezG&theme=chartreuse-dark&hide_border=true" alt="streak">-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" hspace="10" alt="stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJimenezG&theme=chartreuse-dark&show_icons=tfalse&hide_border=false&layout=compact" hspace="10" alt="languages"/>
+  <br/>
 </p>
 
 ---
