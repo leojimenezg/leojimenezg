@@ -1,13 +1,17 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I am Leonardo Jiménez González (@LeoJimenezG) 
 
+---
+
 <div align="center">
   <img height="30em" src="https://visitor-badge.laobi.icu/badge?page_id=LeoJimenezG.LeoJimenezG" alt="visitors">
   <img height="30em" src="https://img.shields.io/github/followers/LeoJimenezG?style=flat&color=green" alt="followers">
   <img height="30em" src="https://img.shields.io/github/stars/LeoJimenezG?style=flat&color=yellow" alt="stars">
 </div>
 
+---
 
-## 🧠 About Me
+
+## About Me
 
 I am a software engineering student driven by a unique passion for programming and developing challenging and intriguing projects. I thrive on daily learning, applying newfound knowledge across diverse technologies to solve identified problems with both efficiency and creativity. Logic and reasoning are my foundation and motivation, as I believe they are the essential tools for crafting innovative and robust solutions.
 
@@ -16,12 +20,14 @@ My portfolio includes numerous projects, both personal and collaborative. My ind
 The continuous process of project development and knowledge acquisition fuels my enthusiasm for remaining active in the technology community. I aspire to make meaningful contributions and leave my own distinctive mark on this expansive and remarkable field.
 
 
-- I'm currently in my 6th semester of software engineering (out of 9).
-- During my free time, I enjoy exploring knowledge domains outside my expertise.
-- My current development focus centers around Python-based personal projects (for now).
-- I find calm through hobbies completely disconnected from technology.
+* I'm currently in my 6th semester of software engineering (out of 9).
+* During my free time, I enjoy exploring knowledge domains outside my expertise.
+* My current development focus centers around Python-based personal projects (for now).
+* I find calm through hobbies completely disconnected from technology.
 
-## 🛠️ Tools & Technologies
+---
+
+## Tools & Technologies
 
 ### Programming Languages
 <p align="center">
@@ -29,7 +35,7 @@ The continuous process of project development and knowledge acquisition fuels my
   <img height="110em" src="./images/java-svgrepo-com.svg" alt="java" hspace="20" vspace="20">
   <img height="110em" src="./images/lua-svgrepo-com.svg" alt="lua" hspace="20" vspace="20">
   <img height="110em" src="./images/cpp-svgrepo-com.svg" alt="c++" hspace="20" vspace="20">
-  <img height="90em" src="./images/r-project-icon.svg" alt="r" hspace="20" vspace="20">
+  <!--<img height="90em" src="./images/r-project-icon.svg" alt="r" hspace="20" vspace="20">-->
 </p>
 
 <br />
@@ -66,12 +72,14 @@ The continuous process of project development and knowledge acquisition fuels my
   <img height="100em" src="./images/azure-svgrepo-com.svg" alt="azure" hspace="20" vspace="20">
   <img height="100em" src="./images/visual-studio-code-svgrepo-com.svg" alt="vscode" hspace="20" vspace="20">
   <img height="100em" src="./images/jetbrains-svgrepo-com.svg" alt="jetbrains" hspace="20" vspace="20">
-  <img height="100em" src="./images/vim-svgrepo-com.svg" alt="vim" hspace="20" vspace="20">
+  <img height="100em" src="./images/nvim-svg-logo.svg" alt="vim" hspace="20" vspace="20">
 </p>
 
 <br />
 
-## 📊 GitHub Analytics
+---
+
+## GitHub Analytics
 
 <p align="center">
   <!--<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoJimenezG&theme=chartreuse-dark&hide_border=true" alt="streak">-->
