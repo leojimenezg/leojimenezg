@@ -1,14 +1,10 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I am Leonardo Jiménez González (@LeoJimenezG) 
 
----
-
 <div align="center">
   <img height="30em" src="https://visitor-badge.laobi.icu/badge?page_id=LeoJimenezG.LeoJimenezG" alt="visitors">
   <img height="30em" src="https://img.shields.io/github/followers/LeoJimenezG?style=flat&color=green" alt="followers">
   <img height="30em" src="https://img.shields.io/github/stars/LeoJimenezG?style=flat&color=yellow" alt="stars">
 </div>
-
----
 
 
 ## About Me
@@ -24,8 +20,6 @@ The continuous process of project development and knowledge acquisition fuels my
 * During my free time, I enjoy exploring knowledge domains outside my expertise.
 * My current development focus centers around Python-based personal projects (for now).
 * I find calm through hobbies completely disconnected from technology.
-
----
 
 ## Tools & Technologies
 
@@ -76,8 +70,6 @@ The continuous process of project development and knowledge acquisition fuels my
 </p>
 
 <br />
-
----
 
 ## GitHub Analytics
 
