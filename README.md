@@ -9,17 +9,17 @@
 
 ## About Me
 
-I am a software engineering student driven by a unique passion for programming and developing challenging and intriguing projects. I thrive on daily learning, applying newfound knowledge across diverse technologies to solve identified problems with both efficiency and creativity. Logic and reasoning are my foundation and motivation, as I believe they are the essential tools for crafting innovative and robust solutions.
+I'm a software engineering student with a serious passion for coding and building projects that really make me think and solve my needs. The more challenging, the better! For me, every day is a chance to learn something new and then put that knowledge to work, solving problems across different tech with both efficiency and a creative twist. Logic and reasoning are my biggest tools, so I truly believe they're the core tools for crafting innovative and robust solutions.
 
-My portfolio includes numerous projects, both personal and collaborative. My individual work has deliberately pushed my boundaries, presenting challenges that were simultaneously difficult, engaging, and enjoyable. Each project has been a learning journey, offering valuable lessons throughout every development phase. When collaborating, I've partnered with talented individuals who bring unique perspectives and complementary skills. These partnerships have led to award-winning projects and earned significant recognition in academic and institutional spheres.
+My portfolio is packed with projects, both solo and collaborative. My individual work has always been about pushing my own limits and solving my own needs, and I can confidently say those challenges were tough, but also super engaging and fun. Every single one was a learning journey.
+When it comes to teamwork, I've been lucky enough to pair up with talented folks who bring unique perspectives and complementary skills. These partnerships have led to award-winning projects and snagged some serious recognition in academic and institutional circles.
 
-The continuous process of project development and knowledge acquisition fuels my enthusiasm for remaining active in the technology community. I aspire to make meaningful contributions and leave my own distinctive mark on this expansive and remarkable field.
+Staying active in the tech community, constantly building and learning, is what keeps my engine running.
+My goal? To make meaningful contributions and leave my own distinct mark on this massive and amazing field.
 
-
-* I'm currently in my 6th semester of software engineering (out of 9).
-* During my free time, I enjoy exploring knowledge domains outside my expertise.
-* My current development focus centers around Python-based personal projects (for now).
-* I find calm through hobbies completely disconnected from technology.
+* Currently in my 6th semester of software engineering (out of 9).
+* In my free time, I love diving into knowledge domains completely outside my expertise.
+* My current sweet spot in development is building out server backends and crafting the main logic that makes things work.
 
 ## Tools & Technologies
 
