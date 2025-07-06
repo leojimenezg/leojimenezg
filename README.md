@@ -1,9 +1,9 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I am Leonardo Jiménez González (@LeoJimenezG) 
 
 <div align="center">
-  <img height="30em" src="https://visitor-badge.laobi.icu/badge?page_id=LeoJimenezG.LeoJimenezG" alt="visitors">
-  <img height="30em" src="https://img.shields.io/github/followers/LeoJimenezG?style=flat&color=green" alt="followers">
-  <img height="30em" src="https://img.shields.io/github/stars/LeoJimenezG?style=flat&color=yellow" alt="stars">
+  <img height="30px" src="https://visitor-badge.laobi.icu/badge?page_id=LeoJimenezG.LeoJimenezG" alt="visitors">
+  <img height="30px" src="https://img.shields.io/github/followers/LeoJimenezG?style=flat&color=green" alt="followers">
+  <img height="30px" src="https://img.shields.io/github/stars/LeoJimenezG?style=flat&color=yellow" alt="stars">
 </div>
 
 
@@ -24,61 +24,62 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
 ## Tools & Technologies
 
 ### Programming Languages
-<p align="center">
-  <img height="110em" src="./images/python-svgrepo-com.svg" alt="python" hspace="20" vspace="20">
-  <img height="110em" src="./images/java-svgrepo-com.svg" alt="java" hspace="20" vspace="20">
-  <img height="110em" src="./images/lua-svgrepo-com.svg" alt="lua" hspace="20" vspace="20">
-  <img height="110em" src="./images/cpp-svgrepo-com.svg" alt="c++" hspace="20" vspace="20">
-  <!--<img height="90em" src="./images/r-project-icon.svg" alt="r" hspace="20" vspace="20">-->
-</p>
+<div align="center">
+  <img height="110px" src="./images/python-svgrepo-com.svg" alt="python" style="margin: 20px;">
+  <img height="110px" src="./images/java-svgrepo-com.svg" alt="java" style="margin: 20px;">
+  <img height="110px" src="./images/cpp-svgrepo-com.svg" alt="c++" style="margin: 20px;">
+  <img height="110px" src="./images/lua-svgrepo-com.svg" alt="lua" style="margin: 20px;">
+  <img height="110px" src="./images/go-gopher-svgrepo-com.svg" alt="go" style="margin: 20px;">
+  <img height="110px" src="./images/c-logo.png" alt="c" style="margin: 20px;">
+</div>
 
 <br />
 
 ### Frameworks & Libraries
-<p align="center">
-  <img height="100em" src="./images/flask-svgrepo-com.svg" alt="flask" hspace="20" vspace="20">
-  <img height="100em" src="./images/tk-svgrepo-com.svg" alt="tkinter" hspace="20" vspace="20">
-  <img height="100em" src="/images/numpy-svgrepo-com.svg" alt="numpy" hspace="20" vspace="20">
-  <img height="100em" src="./images/pandas-svgrepo-com.svg" alt="pandas" hspace="20" vspace="20">
-  <img height="100em" src="./images/spring-icon-svgrepo-com.svg" alt="springboot" hspace="20" vspace="20">
-  <img height="100em" src="./images/laravel-svgrepo-com.svg" alt="laravel" hspace="20" vspace="20">
-  <img height="100em" src="./images/selenium-svgrepo-com.svg" alt="selenium" hspace="20" vspace="20">
-</p>
+<div align="center">
+  <img height="100px" src="./images/flask-svgrepo-com.svg" alt="flask" style="margin: 20px;">
+  <img height="100px" src="./images/tk-svgrepo-com.svg" alt="tkinter" style="margin: 20px;">
+  <img height="100px" src="/images/numpy-svgrepo-com.svg" alt="numpy" style="margin: 20px;">
+  <img height="100px" src="./images/pandas-svgrepo-com.svg" alt="pandas" style="margin: 20px;">
+  <img height="100px" src="./images/spring-icon-svgrepo-com.svg" alt="springboot" style="margin: 20px;">
+  <img height="100px" src="./images/laravel-svgrepo-com.svg" alt="laravel" style="margin: 20px;">
+  <img height="100px" src="./images/selenium-svgrepo-com.svg" alt="selenium" style="margin: 20px;">
+</div>
 
 <br />
 
 ### Data Bases
-<p align="center">
-  <img height="100em" src="./images/mysql-svgrepo-com.svg" alt="mysql" hspace="20" vspace="20">
-  <img height="100em" src="./images/mongo-svgrepo-com.svg" alt="mongodb" hspace="20" vspace="20">
-  <img height="100em" src="./images/sqlite-svgrepo-com.svg" alt="sqlite" hspace="20" vspace="20">
-  <img height="100em" src="./images/postgresql-svgrepo-com.svg" alt="postgresql" hspace="20" vspace="20">
-</p>
+<div align="center">
+  <img height="100px" src="./images/mysql-svgrepo-com.svg" alt="mysql" style="margin: 20px;">
+  <img height="100px" src="./images/mongo-svgrepo-com.svg" alt="mongodb" style="margin: 20px;">
+  <img height="100px" src="./images/sqlite-svgrepo-com.svg" alt="sqlite" style="margin: 20px;">
+  <img height="100px" src="./images/postgresql-svgrepo-com.svg" alt="postgresql" style="margin: 20px;">
+</div>
 
 <br />
 
 ### DevOps & Tools
-<p align="center">
-  <img height="100em" src="./images/git-svgrepo-com.svg" alt="git" hspace="20" vspace="20">
-  <img height="100em" src="./images/github-142-svgrepo-com.svg" alt="github" hspace="20" vspace="20">
-  <img height="100em" src="./images/gitlab-svgrepo-com.svg" alt="gitlab" hspace="20" vspace="20">
-  <img height="100em" src="./images/aws-svgrepo-com.svg" alt="aws" hspace="20" vspace="20">
-  <img height="100em" src="./images/azure-svgrepo-com.svg" alt="azure" hspace="20" vspace="20">
-  <img height="100em" src="./images/visual-studio-code-svgrepo-com.svg" alt="vscode" hspace="20" vspace="20">
-  <img height="100em" src="./images/jetbrains-svgrepo-com.svg" alt="jetbrains" hspace="20" vspace="20">
-  <img height="100em" src="./images/nvim-svg-logo.svg" alt="vim" hspace="20" vspace="20">
-</p>
+<div align="center">
+  <img height="100px" src="./images/git-svgrepo-com.svg" alt="git" style="margin: 20px;">
+  <img height="100px" src="./images/github-142-svgrepo-com.svg" alt="github" style="margin: 20px;">
+  <img height="100px" src="./images/gitlab-svgrepo-com.svg" alt="gitlab" style="margin: 20px;">
+  <img height="100px" src="./images/aws-svgrepo-com.svg" alt="aws" style="margin: 20px;">
+  <img height="100px" src="./images/azure-svgrepo-com.svg" alt="azure" style="margin: 20px;">
+  <img height="100px" src="./images/visual-studio-code-svgrepo-com.svg" alt="vscode" style="margin: 20px;">
+  <img height="100px" src="./images/jetbrains-svgrepo-com.svg" alt="jetbrains" style="margin: 20px;">
+  <img height="100px" src="./images/nvim-svg-logo.svg" alt="vim" style="margin: 20px;">
+</div>
 
 <br />
 
 ## GitHub Analytics
 
-<p align="center">
-  <!--<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoJimenezG&theme=chartreuse-dark&hide_border=true" alt="streak">-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" hspace="10" alt="stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJimenezG&theme=chartreuse-dark&show_icons=tfalse&hide_border=false&layout=compact" hspace="10" alt="languages"/>
+<div align="center">
+  <!--<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoJimenezG&theme=chartreuse-dark&hide_border=true" alt="streak">-->
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" hspace="10" alt="stats"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJimenezG&theme=chartreuse-dark&show_icons=tfalse&hide_border=false&layout=compact" hspace="10" alt="languages"/>
   <br/>
-</p>
+</div>
 
 ---
 
