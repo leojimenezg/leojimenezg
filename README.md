@@ -24,19 +24,19 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
 ## Tools & Technologies
 
 ### Programming Languages
-<div align="center">
+<p align="center">
   <img height="110px" src="./images/python-svgrepo-com.svg" alt="python" style="margin: 20px;">
   <img height="110px" src="./images/java-svgrepo-com.svg" alt="java" style="margin: 20px;">
   <img height="110px" src="./images/cpp-svgrepo-com.svg" alt="c++" style="margin: 20px;">
   <img height="110px" src="./images/lua-svgrepo-com.svg" alt="lua" style="margin: 20px;">
   <img height="110px" src="./images/go-gopher-svgrepo-com.svg" alt="go" style="margin: 20px;">
   <img height="110px" src="./images/c-logo.png" alt="c" style="margin: 20px;">
-</div>
+</p>
 
 <br />
 
 ### Frameworks & Libraries
-<div align="center">
+<p align="center">
   <img height="100px" src="./images/flask-svgrepo-com.svg" alt="flask" style="margin: 20px;">
   <img height="100px" src="./images/tk-svgrepo-com.svg" alt="tkinter" style="margin: 20px;">
   <img height="100px" src="/images/numpy-svgrepo-com.svg" alt="numpy" style="margin: 20px;">
@@ -44,22 +44,22 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
   <img height="100px" src="./images/spring-icon-svgrepo-com.svg" alt="springboot" style="margin: 20px;">
   <img height="100px" src="./images/laravel-svgrepo-com.svg" alt="laravel" style="margin: 20px;">
   <img height="100px" src="./images/selenium-svgrepo-com.svg" alt="selenium" style="margin: 20px;">
-</div>
+</p>
 
 <br />
 
 ### Data Bases
-<div align="center">
+<p align="center">
   <img height="100px" src="./images/mysql-svgrepo-com.svg" alt="mysql" style="margin: 20px;">
   <img height="100px" src="./images/mongo-svgrepo-com.svg" alt="mongodb" style="margin: 20px;">
   <img height="100px" src="./images/sqlite-svgrepo-com.svg" alt="sqlite" style="margin: 20px;">
   <img height="100px" src="./images/postgresql-svgrepo-com.svg" alt="postgresql" style="margin: 20px;">
-</div>
+</p>
 
 <br />
 
 ### DevOps & Tools
-<div align="center">
+<p align="center">
   <img height="100px" src="./images/git-svgrepo-com.svg" alt="git" style="margin: 20px;">
   <img height="100px" src="./images/github-142-svgrepo-com.svg" alt="github" style="margin: 20px;">
   <img height="100px" src="./images/gitlab-svgrepo-com.svg" alt="gitlab" style="margin: 20px;">
@@ -68,18 +68,18 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
   <img height="100px" src="./images/visual-studio-code-svgrepo-com.svg" alt="vscode" style="margin: 20px;">
   <img height="100px" src="./images/jetbrains-svgrepo-com.svg" alt="jetbrains" style="margin: 20px;">
   <img height="100px" src="./images/nvim-svg-logo.svg" alt="vim" style="margin: 20px;">
-</div>
+</p>
 
 <br />
 
 ## GitHub Analytics
 
-<div align="center">
+<p align="center">
   <!--<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoJimenezG&theme=chartreuse-dark&hide_border=true" alt="streak">-->
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" hspace="10" alt="stats"/>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJimenezG&theme=chartreuse-dark&show_icons=tfalse&hide_border=false&layout=compact" hspace="10" alt="languages"/>
   <br/>
-</div>
+</p>
 
 ---
 
