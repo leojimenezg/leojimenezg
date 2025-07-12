@@ -1,9 +1,9 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I am Leonardo Jiménez González (@LeoJimenezG) 
 
 <div align="center">
-  <img height="30px" src="https://visitor-badge.laobi.icu/badge?page_id=LeoJimenezG.LeoJimenezG" alt="visitors">
-  <img height="30px" src="https://img.shields.io/github/followers/LeoJimenezG?style=flat&color=green" alt="followers">
-  <img height="30px" src="https://img.shields.io/github/stars/LeoJimenezG?style=flat&color=yellow" alt="stars">
+  <img height="40px" src="https://visitor-badge.laobi.icu/badge?page_id=LeoJimenezG.LeoJimenezG" alt="visitors">
+  <img height="40px" src="https://img.shields.io/github/followers/LeoJimenezG?style=flat&color=green" alt="followers">
+  <img height="40px" src="https://img.shields.io/github/stars/LeoJimenezG?style=flat&color=yellow" alt="stars">
 </div>
 
 
@@ -75,7 +75,6 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
 ## GitHub Analytics
 
 <p align="center">
-  <!--<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoJimenezG&theme=chartreuse-dark&hide_border=true" alt="streak">-->
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" hspace="10" alt="stats"/>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJimenezG&theme=chartreuse-dark&show_icons=tfalse&hide_border=false&layout=compact" hspace="10" alt="languages"/>
   <br/>
