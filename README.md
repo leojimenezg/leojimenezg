@@ -1,7 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I am Leonardo Jiménez González (@LeoJimenezG) 
 
 <div align="center">
-  <img height="40px" src="https://visitor-badge.laobi.icu/badge?page_id=LeoJimenezG.LeoJimenezG" alt="visitors">
   <img height="40px" src="https://img.shields.io/github/followers/LeoJimenezG?style=flat&color=green" alt="followers">
   <img height="40px" src="https://img.shields.io/github/stars/LeoJimenezG?style=flat&color=yellow" alt="stars">
 </div>
@@ -17,7 +16,7 @@ When it comes to teamwork, I've been lucky enough to pair up with talented folks
 Staying active in the tech community, constantly building and learning, is what keeps my engine running.
 My goal? To make meaningful contributions and leave my own distinct mark on this massive and amazing field.
 
-* Currently in my 6th semester of software engineering (out of 9).
+* Currently in my 7th semester of software engineering (out of 9).
 * In my free time, I love diving into knowledge domains completely outside my expertise.
 * My current sweet spot in development is building out server backends and crafting the main logic that makes things work.
 
@@ -27,7 +26,6 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
 <p align="center">
   <img height="110px" src="./images/python-svgrepo-com.svg" alt="python" style="margin: 20px;">
   <img height="110px" src="./images/java-svgrepo-com.svg" alt="java" style="margin: 20px;">
-  <img height="110px" src="./images/cpp-svgrepo-com.svg" alt="c++" style="margin: 20px;">
   <img height="110px" src="./images/lua-svgrepo-com.svg" alt="lua" style="margin: 20px;">
   <img height="110px" src="./images/go-gopher-svgrepo-com.svg" alt="go" style="margin: 20px;">
   <img height="110px" src="./images/c-logo.png" alt="c" style="margin: 20px;">
@@ -35,6 +33,7 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
 
 <br />
 
+<!--
 ### Frameworks & Libraries
 <p align="center">
   <img height="100px" src="./images/flask-svgrepo-com.svg" alt="flask" style="margin: 20px;">
@@ -45,6 +44,7 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
   <img height="100px" src="./images/laravel-svgrepo-com.svg" alt="laravel" style="margin: 20px;">
   <img height="100px" src="./images/selenium-svgrepo-com.svg" alt="selenium" style="margin: 20px;">
 </p>
+-->
 
 <br />
 
@@ -62,7 +62,6 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
 <p align="center">
   <img height="100px" src="./images/git-svgrepo-com.svg" alt="git" style="margin: 20px;">
   <img height="100px" src="./images/github-142-svgrepo-com.svg" alt="github" style="margin: 20px;">
-  <img height="100px" src="./images/gitlab-svgrepo-com.svg" alt="gitlab" style="margin: 20px;">
   <img height="100px" src="./images/aws-svgrepo-com.svg" alt="aws" style="margin: 20px;">
   <img height="100px" src="./images/azure-svgrepo-com.svg" alt="azure" style="margin: 20px;">
   <img height="100px" src="./images/visual-studio-code-svgrepo-com.svg" alt="vscode" style="margin: 20px;">
