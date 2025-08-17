@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I am Leonardo Jiménez González (@LeoJimenezG) 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I am Leonardo Jiménez (@leojimenezg) 
 
 <div align="center">
   <img height="40px" src="https://img.shields.io/github/followers/LeoJimenezG?style=flat&color=green" alt="followers">
@@ -74,8 +74,8 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" hspace="10" alt="stats"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJimenezG&theme=chartreuse-dark&show_icons=tfalse&hide_border=false&layout=compact" hspace="10" alt="languages"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" hspace="10" alt="stats"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJimenezG&theme=chartreuse-dark&show_icons=tfalse&hide_border=true&layout=compact" hspace="10" alt="languages"/>
   <br/>
 </p>
 
