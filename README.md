@@ -16,10 +16,6 @@ When it comes to teamwork, I've been lucky enough to pair up with talented folks
 Staying active in the tech community, constantly building and learning, is what keeps my engine running.
 My goal? To make meaningful contributions and leave my own distinct mark on this massive and amazing field.
 
-* Currently in my 7th semester of software engineering (out of 9).
-* In my free time, I love diving into knowledge domains completely outside my expertise.
-* My current sweet spot in development is building out server backends and crafting the main logic that makes things work.
-
 ## Tools & Technologies
 
 ### Programming Languages
