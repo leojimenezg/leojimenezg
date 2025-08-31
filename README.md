@@ -57,7 +57,6 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
 ### DevOps & Tools
 <p align="center">
   <img height="100px" src="./images/git-svgrepo-com.svg" alt="git" style="margin: 20px;">
-  <img height="100px" src="./images/github-142-svgrepo-com.svg" alt="github" style="margin: 20px;">
   <img height="100px" src="./images/aws-svgrepo-com.svg" alt="aws" style="margin: 20px;">
   <img height="100px" src="./images/azure-svgrepo-com.svg" alt="azure" style="margin: 20px;">
   <img height="100px" src="./images/visual-studio-code-svgrepo-com.svg" alt="vscode" style="margin: 20px;">
@@ -70,7 +69,7 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" hspace="10" alt="stats"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJimenezG&theme=chartreuse-dark&show_icons=tfalse&hide_border=true&layout=compact" hspace="10" alt="languages"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" hspace="10" alt="stats"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJimenezG&theme=chartreuse-dark&show_icons=tfalse&hide_border=false&layout=compact" hspace="10" alt="languages"/>
   <br/>
 </p>
