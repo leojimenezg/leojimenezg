@@ -20,10 +20,10 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
 
 ### Programming Languages
 <p align="center">
+  <img height="110px" src="./images/go-gopher-svgrepo-com.svg" alt="go" style="margin: 20px;">
   <img height="110px" src="./images/python-svgrepo-com.svg" alt="python" style="margin: 20px;">
   <img height="110px" src="./images/java-svgrepo-com.svg" alt="java" style="margin: 20px;">
   <img height="110px" src="./images/lua-svgrepo-com.svg" alt="lua" style="margin: 20px;">
-  <img height="110px" src="./images/go-gopher-svgrepo-com.svg" alt="go" style="margin: 20px;">
   <img height="110px" src="./images/c-logo.png" alt="c" style="margin: 20px;">
 </p>
 
@@ -69,7 +69,7 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" hspace="10" alt="stats"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJimenezG&theme=chartreuse-dark&show_icons=tfalse&hide_border=false&layout=compact" hspace="10" alt="languages"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" hspace="10" alt="stats"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJimenezG&theme=chartreuse-dark&show_icons=tfalse&hide_border=true&layout=compact" hspace="10" alt="languages"/>
   <br/>
 </p>
