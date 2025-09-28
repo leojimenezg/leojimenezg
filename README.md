@@ -66,6 +66,7 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
 
 <br />
 
+<!--
 ## GitHub Analytics
 
 <p align="center">
@@ -73,3 +74,4 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJimenezG&theme=chartreuse-dark&show_icons=tfalse&hide_border=true&layout=compact" hspace="10" alt="languages"/>
   <br/>
 </p>
+-->
