@@ -21,34 +21,20 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
 ### Programming Languages
 <p align="center">
   <img height="110px" src="./images/go-gopher-svgrepo-com.svg" alt="go" style="margin: 20px;">
+  <img height="110px" src="./images/c-logo.png" alt="c" style="margin: 20px;">
   <img height="110px" src="./images/python-svgrepo-com.svg" alt="python" style="margin: 20px;">
   <img height="110px" src="./images/java-svgrepo-com.svg" alt="java" style="margin: 20px;">
   <img height="110px" src="./images/lua-svgrepo-com.svg" alt="lua" style="margin: 20px;">
-  <img height="110px" src="./images/c-logo.png" alt="c" style="margin: 20px;">
 </p>
-
-<br />
-
-<!--
-### Frameworks & Libraries
-<p align="center">
-  <img height="100px" src="./images/flask-svgrepo-com.svg" alt="flask" style="margin: 20px;">
-  <img height="100px" src="./images/tk-svgrepo-com.svg" alt="tkinter" style="margin: 20px;">
-  <img height="100px" src="/images/numpy-svgrepo-com.svg" alt="numpy" style="margin: 20px;">
-  <img height="100px" src="./images/pandas-svgrepo-com.svg" alt="pandas" style="margin: 20px;">
-  <img height="100px" src="./images/spring-icon-svgrepo-com.svg" alt="springboot" style="margin: 20px;">
-  <img height="100px" src="./images/laravel-svgrepo-com.svg" alt="laravel" style="margin: 20px;">
-  <img height="100px" src="./images/selenium-svgrepo-com.svg" alt="selenium" style="margin: 20px;">
-</p>
--->
 
 <br />
 
 ### Data Bases
 <p align="center">
   <img height="100px" src="./images/mysql-svgrepo-com.svg" alt="mysql" style="margin: 20px;">
-  <img height="100px" src="./images/mongo-svgrepo-com.svg" alt="mongodb" style="margin: 20px;">
+  <img height="100px" src="./images/redis-svgrepo-com.svg" alt="redis" style="margin: 20px;">
   <img height="100px" src="./images/sqlite-svgrepo-com.svg" alt="sqlite" style="margin: 20px;">
+  <img height="100px" src="./images/mongo-svgrepo-com.svg" alt="mongodb" style="margin: 20px;">
   <img height="100px" src="./images/postgresql-svgrepo-com.svg" alt="postgresql" style="margin: 20px;">
 </p>
 
@@ -56,22 +42,18 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
 
 ### DevOps & Tools
 <p align="center">
+  <img height="100px" src="./images/nvim-svg-logo.svg" alt="neovim" style="margin: 20px;">
   <img height="100px" src="./images/git-svgrepo-com.svg" alt="git" style="margin: 20px;">
+  <img height="100px" src="./images/docker-svgrepo-com.svg" alt="docker" style="margin: 20px;">
+  <img height="100px" src="./images/figma-svgrepo-com.svg" alt="figma" style="margin: 20px;">
   <img height="100px" src="./images/aws-svgrepo-com.svg" alt="aws" style="margin: 20px;">
-  <img height="100px" src="./images/azure-svgrepo-com.svg" alt="azure" style="margin: 20px;">
-  <img height="100px" src="./images/visual-studio-code-svgrepo-com.svg" alt="vscode" style="margin: 20px;">
-  <img height="100px" src="./images/jetbrains-svgrepo-com.svg" alt="jetbrains" style="margin: 20px;">
-  <img height="100px" src="./images/nvim-svg-logo.svg" alt="vim" style="margin: 20px;">
 </p>
 
 <br />
 
-<!--
 ## GitHub Analytics
-
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LeoJimenezG&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" hspace="10" alt="stats"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJimenezG&theme=chartreuse-dark&show_icons=tfalse&hide_border=true&layout=compact" hspace="10" alt="languages"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=leojimenezg&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" hspace="10" alt="stats"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leojimenezg&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact&count_private=true" hspace="10" alt="languages"/>
   <br/>
 </p>
--->
