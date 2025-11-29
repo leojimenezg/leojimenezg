@@ -51,9 +51,11 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
 
 <br />
 
+<!--
 ## GitHub Analytics
 <p align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=leojimenezg&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" hspace="10" alt="stats"/>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leojimenezg&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact&count_private=true" hspace="10" alt="languages"/>
   <br/>
 </p>
+-->
