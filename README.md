@@ -35,7 +35,6 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
   <img height="100px" src="./images/redis-svgrepo-com.svg" alt="redis" style="margin: 20px;">
   <img height="100px" src="./images/sqlite-svgrepo-com.svg" alt="sqlite" style="margin: 20px;">
   <img height="100px" src="./images/mongo-svgrepo-com.svg" alt="mongodb" style="margin: 20px;">
-  <img height="100px" src="./images/postgresql-svgrepo-com.svg" alt="postgresql" style="margin: 20px;">
 </p>
 
 <br />
@@ -46,7 +45,6 @@ My goal? To make meaningful contributions and leave my own distinct mark on this
   <img height="100px" src="./images/git-svgrepo-com.svg" alt="git" style="margin: 20px;">
   <img height="100px" src="./images/docker-svgrepo-com.svg" alt="docker" style="margin: 20px;">
   <img height="100px" src="./images/figma-svgrepo-com.svg" alt="figma" style="margin: 20px;">
-  <img height="100px" src="./images/aws-svgrepo-com.svg" alt="aws" style="margin: 20px;">
 </p>
 
 <br />
