@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Leonardo Jiménez
 
-<img src="https://img.shields.io/github/followers/LeoJimenezG?style=flat&color=green" />
-<img src="https://img.shields.io/github/stars/LeoJimenezG?style=flat&color=yellow" />
-
----
+<p>
+    <img src="https://img.shields.io/github/followers/LeoJimenezG?style=flat&color=green" />
+    <img src="https://img.shields.io/github/stars/LeoJimenezG?style=flat&color=yellow" />
+</p>
 
 ## About me
 
@@ -15,32 +15,34 @@ I’m a backend-focused developer currently deepening my knowledge in:
 I’m especially interested in understanding *why* things work the way they do, not just *how* to use them.  
 My goal is building software that becomes simpler and easier to reason about over time.
 
----
-
 ## Tech I work with
 
 ### Main focus
 <img height="110px" src="./images/go.svg" />
 
 ### Programming & systems
-<img height="90px" src="./images/c.svg" />
-<img height="90px" src="./images/python.svg" />
-<img height="90px" src="./images/java.svg" />
-<img height="90px" src="./images/lua.svg" />
+<p>
+    <img height="90px" src="./images/c.svg" />
+    <img height="90px" src="./images/python.svg" />
+    <img height="90px" src="./images/java.svg" />
+    <img height="90px" src="./images/lua.svg" />
+</p>
 
 ### Databases
-<img height="80px" src="./images/mysql.svg" />
-<img height="80px" src="./images/redis.svg" />
-<img height="80px" src="./images/sqlite.svg" />
-<img height="80px" src="./images/mongodb.svg" />
+<p>
+    <img height="80px" src="./images/mysql.svg" />
+    <img height="80px" src="./images/redis.svg" />
+    <img height="80px" src="./images/sqlite.svg" />
+    <img height="80px" src="./images/mongodb.svg" />
+</p>
 
 ### Infrastructure & tools
-<img height="80px" src="./images/docker.svg" />
-<img height="80px" src="./images/git.svg" />
-<img height="80px" src="./images/nvim.svg" />
-<img height="80px" src="./images/figma.svg" />
-
----
+<p>
+    <img height="80px" src="./images/docker.svg" />
+    <img height="80px" src="./images/git.svg" />
+    <img height="80px" src="./images/nvim.svg" />
+    <img height="80px" src="./images/figma.svg" />
+</p>
 
 ## Content & links
 
