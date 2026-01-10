@@ -52,4 +52,3 @@ I share my learning process and experiments around development, Go, and systems-
 - ✍️ **DEV:** https://dev.to/leojimenezg
 - 📓 **Medium:** https://medium.com/@leojimenezg
 - 🎥 **YouTube:** https://www.youtube.com/@leojimenezg
-- 💼 **LinkedIn:** https://www.linkedin.com/in/leojimenezg/
